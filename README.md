@@ -451,7 +451,7 @@ Contributions are welcome! Areas for improvement:
 
 This project was developed by the AI-Skill team at Helwan National University:
 
-- [**Ali Abdou**](https://www.linkedin.com/in/aliabdou1/)
+- [**Ali Abdou**](https://www.linkedin.com/in/aliiabdou/)
 - [**Amira Azzam**](https://www.linkedin.com/in/amira-azzam2510/)
 - [**Yousef Medhat**](https://www.linkedin.com/in/yousef-medhat-7293232a1/)
 - [**Yousef Waheed**](https://www.linkedin.com/in/youssef-waheed-8462061a7/)
